@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 前端搭建Nodejs+npm+gulp开发环境
-category: Node.js
-tags: Node.js
+category: NodeJS
+tags: NodeJS
 description: 前端搭建Nodejs+npm+gulp开发环境
 ---
 ### 一 安装NodeJS
