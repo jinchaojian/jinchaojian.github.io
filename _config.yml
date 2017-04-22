@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: 
-weibo: 
+#twitter:
+#weibo:
 github: jinchaojian
-instagram:
-linkedin:
+#instagram:
+#linkedin:
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: http://mmbiz.qpic.cn/mmbiz_png/xmR0wfHH2lKg8DmgvOicb5rrkzDQStFUqXUPrdoaF515sAOAycu01WygtjxGbhSucQwTtqtOWHQkFdD09AlMjdA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1
+favicon: http://mmbiz.qpic.cn/mmbiz_png/xmR0wfHH2lKg8DmgvOicb5rrkzDQStFUqXUPrdoaF515sAOAycu01WygtjxGbhSucQwTtqtOWHQkFdD09AlMjdA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1
 
 # disqus config
 disqus:
