@@ -40,7 +40,7 @@ MongoDB需要一个数据目录来存储所有数据。MongoDB的默认数据目
 
 或者直接进入C:\Program Files\MongoDB\Server\3.4\bin目录下双击mongod.exe
 
-###连接MongoDB
+### 连接MongoDB
 运行mongo.exe就能连接上MongoDB，可以通过打开另外一个命令行窗口，执行如下命令：
 
     C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe
